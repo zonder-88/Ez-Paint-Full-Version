@@ -238,3 +238,6 @@ This repository serves as the official landing page for EZ Paint. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of EZ Paint today!**
+
+---
+**Last updated:** 2026-09-12 05:22:51 UTC
